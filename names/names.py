@@ -1,3 +1,8 @@
+"""
+It doesn't say how, but it says how not to!
+"""
+
+
 import time
 from bst import BSTNode
 import numpy
