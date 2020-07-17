@@ -27,6 +27,7 @@ duplicates = numpy.intersect1d(names_1, names_2)
 #         if name_1 == name_2:
 #             duplicates.append(name_1)
 
+print('\nTime complexity: O(n log n\n')
 print('How many are common:', len(duplicates), '\n')
 print('what\'s_common', duplicates)
 
